@@ -1,2 +1,2 @@
-# hamiltonian_convertor_qiskit_openfermion
+# openfermion-qiskit
 Convert OpenFermion QubitOperator to Qiskit WeightedPauliOperator.
